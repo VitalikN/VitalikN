@@ -2,7 +2,7 @@
 <p align="center">I'm a passionate tech enthusiast with a knack for solving challenges. Armed with expertise in React, JavaScript, HTML, CSS, and Node.js, I excel at crafting full-stack applications that offer outstanding user experiences. Sharing my work and collaborating with others fuels my growth and commitment to continuous learning. Always on the hunt for new challenges, I'm driven by a relentless pursuit of mastery and innovation in the ever-evolving world of technology.</p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p >
     <a href="https://www.linkedin.com/in/vitalii-nozhenko/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vitalii Nozhenko LinkedIn" height="30" width="40" />
     </a>

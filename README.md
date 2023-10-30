@@ -30,7 +30,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
@@ -43,11 +43,11 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
-
+</td></tr></table>  
 
 <br/>  
 
@@ -67,9 +67,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VitalikN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VitalikN&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikN&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikN&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
 <br/>  
 
